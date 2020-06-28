@@ -7,6 +7,7 @@
 #include "esp_wifi.h"
 #include "esp_log.h"
 #include "nvs_flash.h"
+#include <stdlib.h>
 
 #define PIN GPIO_NUM_25
 
@@ -78,6 +79,7 @@ void OnConnected(void *para)
     else
     {
       ESP_LOGE(TAG, "Failed to connect. Retry in");
+	  ESP_LOGE(TAG, "teste");
       for (int i = 0; i < 5; i++)
       {
         ESP_LOGE(TAG, "...%d", i);
