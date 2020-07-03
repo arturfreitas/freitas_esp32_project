@@ -99,6 +99,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/projects/esp32/freitas_esp32_project/build/esp-idf/unity/cmake_install.cmake")
   include("C:/projects/esp32/freitas_esp32_project/build/esp-idf/wifi_provisioning/cmake_install.cmake")
   include("C:/projects/esp32/freitas_esp32_project/build/esp-idf/main/cmake_install.cmake")
+  include("C:/projects/esp32/freitas_esp32_project/build/esp-idf/u8g2/cmake_install.cmake")
 
 endif()
 

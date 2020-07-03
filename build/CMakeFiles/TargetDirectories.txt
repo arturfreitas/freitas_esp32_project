@@ -505,3 +505,10 @@ C:/projects/esp32/freitas_esp32_project/build/esp-idf/main/CMakeFiles/__idf_main
 C:/projects/esp32/freitas_esp32_project/build/esp-idf/main/CMakeFiles/rebuild_cache.dir
 C:/projects/esp32/freitas_esp32_project/build/esp-idf/main/CMakeFiles/list_install_components.dir
 C:/projects/esp32/freitas_esp32_project/build/esp-idf/main/CMakeFiles/install/strip.dir
+C:/projects/esp32/freitas_esp32_project/build/esp-idf/u8g2/CMakeFiles/rebuild_cache.dir
+C:/projects/esp32/freitas_esp32_project/build/esp-idf/u8g2/CMakeFiles/__idf_u8g2.dir
+C:/projects/esp32/freitas_esp32_project/build/esp-idf/u8g2/CMakeFiles/install/local.dir
+C:/projects/esp32/freitas_esp32_project/build/esp-idf/u8g2/CMakeFiles/install.dir
+C:/projects/esp32/freitas_esp32_project/build/esp-idf/u8g2/CMakeFiles/edit_cache.dir
+C:/projects/esp32/freitas_esp32_project/build/esp-idf/u8g2/CMakeFiles/list_install_components.dir
+C:/projects/esp32/freitas_esp32_project/build/esp-idf/u8g2/CMakeFiles/install/strip.dir
